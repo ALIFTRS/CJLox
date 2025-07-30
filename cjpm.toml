@@ -9,6 +9,6 @@
   compile-option = ""
   override-compile-option = ""
   link-option = ""
-  package-configuration = {}
+  [package.package-configuration]
 
 [dependencies]
